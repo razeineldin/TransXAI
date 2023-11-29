@@ -1,0 +1,11 @@
+#Python==3.10.12
+keras==2.9.0
+Keras-Preprocessing==1.1.2
+keras-unet-collection==0.1.13
+nibabel==5.1.0
+numpy==1.24.3
+scikit-image==0.22.0
+scipy==1.11.1
+tables==3.9.1
+tensorflow-gpu==2.9.0
+
